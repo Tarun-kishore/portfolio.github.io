@@ -37,11 +37,11 @@ body{
 
 #image{
     grid-area: img;
-    box-shadow: 0 0 8px 8px grey inset; 
    }
 
 #image img{
         height: 50vh;
+        box-shadow: 0 0 8px 8px grey inset; 
 }
 #intro{
     height: 80vh;
@@ -81,6 +81,7 @@ body{
     }
     
   .item {
+      background: #e2f5d5; 
       width: 30vw;
       height: calc(100% - 6vh);
       white-space: pre-line;
