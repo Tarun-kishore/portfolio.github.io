@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Ranchers&display=swap');
 body{
-    background-color: rgba(126, 56, 56, 0.603);
+    background-color: skyblue;
 }
 
 #intro::before{
@@ -31,7 +31,7 @@ body{
     grid-area: desc;
     font-size: 6vh;
     font-style: italic;
-    color: red;
+    color: white;
 }
 
 
@@ -132,13 +132,13 @@ body{
     #mainintro{
         font-size: 5vw;
         margin-bottom: 5vh;
-        color: red;
+        color: white;
     }
     
     #description{
         font-size: 3vw;
         font-style: italic;
-        color: yellow;
+        color: white;
     }
     
     
