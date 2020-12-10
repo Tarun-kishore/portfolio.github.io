@@ -46,22 +46,21 @@ body{
 a{
     text-decoration: none;
     font-size: 4vh;
-    color: rgb(141, 134, 182);
+    color: black;
     padding: 3vh;
 }
 #btn{margin: 2vh;
-    background-color: green;
+    background-color: white;
     border-radius: 18px;
 }
 #btn:hover{
-    background-color: rgb(13, 23, 206);
+    background-color:black ;
 }
 #btn:onclick{
-    background-color: rgb(13, 23, 206);
     box-shadow: 2px 2px;
 }
 a:hover{
     font-size: 4.2vh;
-    color: rgb(255, 0, 0);
+    color: white;
     font-weight: bold;
 }
