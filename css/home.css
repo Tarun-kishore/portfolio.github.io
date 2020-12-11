@@ -73,6 +73,7 @@ body{
     font-size: 0;
     perspective: 500px;
    background: url("https://source.unsplash.com/NFs6dRTBgaM/2000x2000v");
+   background-size: cover; 
   }
   
   .items.active {
