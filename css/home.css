@@ -72,7 +72,7 @@ body{
     background: rgba(255,255,255,0.1);
     font-size: 0;
     perspective: 500px;
-   background: url('https://source.unsplash.com/NFs6dRTBgaM/2000x2000v);
+   background: url("https://source.unsplash.com/NFs6dRTBgaM/2000x2000v");
   }
   
   .items.active {
